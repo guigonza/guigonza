@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hola — soy Guillermo González Calderón (guigonza)
 
-<!--
-**guigonza/guigonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer** • 42 School Graduate  
+C • Shell • Sistemas • Git • Makefiles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿Qué hago?
+Construyo proyectos de sistemas en C (shells, pipes, gestión de memoria y algoritmos). Me apasiona resolver problemas complejos y aprender buenas prácticas de ingeniería.
+
+Busco oportunidades en **Software Development**, **IT** o **Project Management** (Madrid / remoto).
+
+---
+
+## Tecnologías
+- Lenguajes: **C**, Shell scripting
+- Herramientas: **Git**, Make, Valgrind, GDB
+- Conceptos: sistemas UNIX, pipes, forks, parsing, estructuras enlazadas, gestión de memoria
+
+---
+
+## Proyectos destacados
+- **minishell** — reimplementación de un shell (parsings, forks, redirecciones).  
+- **gnl** — Get Next Line: lectura eficiente por línea y gestión de buffers.  
+- **libft** — implementación de funciones estándar en C.  
+- **push_swap** — algoritmo de ordenación con movimientos mínimos entre dos stacks.  
+- **ft_printf** — implementación parcial/total de printf.
+
+(Más proyectos en mi repositorio, ver sección *Repositories*.)
+
+---
+
+## Contacto
+- GitHub: https://github.com/guigonza  
+- LinkedIn: https://www.linkedin.com/in/guillermo-gonzalez-calderon/  
+- Email: guillegoncal@gmail.com
+
+---
+
+> 📌 Si buscas una persona con base fuerte en C y fundamentos de sistemas, hablemos.
